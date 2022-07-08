@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amirreza Tavallaei
 - ✨ I'm interested in working with Python and creating applications with it.
-- 💡 I'm currently learning python frameworks for creating desktop applications.
+- 💡 I'm currently learning HTML and CSS for creating websites.
 - 🔨 I'm currently creating new projects to strengthen programming.
 
 <!---
