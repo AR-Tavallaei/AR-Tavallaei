@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Amirreza Tavallaei
-- ✨ I'm interested in working with Python and creating applications with it.
-- 💡 I'm currently learning HTML and CSS for creating websites.
+- ✨ I'm interested in web design and I have learned HTML, CSS, Bootstrap, JavaScript etc.
+- Also I love Python and have worked with it. For example I have worked with PyQt5 and made some projects with it.
+- 💡 I'm currently learning front-end for creating better websites.
 - 🔨 I'm currently creating new projects to strengthen programming.
 
 <!---
